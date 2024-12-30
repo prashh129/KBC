@@ -20,9 +20,9 @@ money=0
 for i in range(0,len(questions)):
     question=questions[i]
     print(question[0])
-    print(f"a.{question[1]}            b.{question[2]}")
-    print(f"b.{question[3]}         d.{question[4]}")
-    reply=str(input("Enter your answer(a-d):"))
+    print(f"a.{question[1]}       b.{question[2]}")
+    print(f"c.{question[3]}      d.{question[4]}")
+    reply=str(input("Enter your answer(a-d or 1-4):"))
     if reply=="a":
         reply=1
     elif reply=="b":
@@ -44,4 +44,3 @@ for i in range(0,len(questions)):
 
 
 print(f"Your takehome money is Rs. {money}")
-
