@@ -1,15 +1,17 @@
 questions=[
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
-    ["Which programming language is used in facebook?","Python","PHP","Javascript","Nepali",2],
+    
+  ["What is the capital of Nepal?", "Mount Everest", "KTM Bike Showroom", "Kathmandu", "Facebook Nepal", 3],
+  ["What is momo in Nepal?", "National Bird", "Dumpling Dish", "Brand of Motorcycle", "An Expensive Jewelry", 2],
+  ["Who is popularly known as 'The Light of Asia'?", "Prithvi Narayan Shah", "Gautam Buddha", "Deepak Bhattarai", "Rajesh Hamal", 2],
+  ["What is the primary use of 'Gundruk' in Nepalese households?", "Wallpaper", "Traditional Carpet", "Fermented Vegetable Dish", "Hair Conditioner", 3],
+  ["Which festival involves flying kites in Nepal?", "Dashain", "Tihar", "Independence Day", "Budget Announcement Day", 1],
+  ["What is the Nepalese currency called?", "Dollar", "Bitcoin", "Rupee", "Dhukuti", 3],
+  ["What is a 'Bagh Chal'?", "A Tiger's Movement", "Traditional Board Game", "Local Transportation Service", "A Wrestling Move", 2],
+  ["What does the Nepalese flag represent?", "Two Mountains and the Moon", "A Kite Flying Above Everest", "A Pizza Slice and a Triangle Ruler", "The Only Non-Rectangular National Flag", 4],
+  ["What is Mount Everest locally called in Nepal?", "Mount Big Boss", "Sagarmatha", "Snowy Peak of Nepal", "Mount Tall Tall", 2],
+  ["What is the national animal of Nepal?", "Domestic Cat", "Cow", "Yeti", "Goat Wearing a Tika", 2]
+
+
 ]
 
 levels=[1000,2000,3000,5000,10000,20000,40000,80000,160000,320000]
