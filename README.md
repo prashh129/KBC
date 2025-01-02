@@ -53,8 +53,8 @@ Enter your answer (a-d):
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Suggestions for improvements, additional features, or bug fixes are welcome!
 
 ## License
+This project does not have a license. All rights are reserved. If you would like to use this code, please contact the repository owner for permission.
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
